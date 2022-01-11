@@ -6,6 +6,8 @@ public class Test {
 
         System.out.println("测试idea git 提交");
 
+        System.out.println("测试idea git 更新提交");
+
     }
 
 }
